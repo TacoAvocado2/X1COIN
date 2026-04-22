@@ -1,5 +1,3 @@
-<div align="center">
-
 # X1 Coin
 
 Powered by the SHA256 algorithm, X1 sets new standards in transaction processing speed and integrity.  
@@ -18,22 +16,11 @@ X1 offers innovative approach to security, efficiency and reliability.
 **Website:**  
 https://x1coin.net  
 
-**Whitepaper:**  
-https://x1coin.org/whitepaper  
-
 **GitHub:**  
 https://github.com/TacoAvocado2/X1COIN  
-https://github.com/TacoAvocado2/X1COIN/tags  
 
 **Wallet:**  
-Coming Soon  
+https://github.com/TacoAvocado2/X1COIN/tags  
 
 **Block Explorer:**  
-https://x1coin.net/blockexplorer  
-
-</div>
-
-
-
-
-
+https://x1coin.net/blockexplorer
